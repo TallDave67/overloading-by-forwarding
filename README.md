@@ -20,7 +20,7 @@ dates: June 24, 2021
 
 duration: 4 hours
 
-### Core code from Another Developer
+### Code from Another Developer
 
 These folks gave me my start.
 
