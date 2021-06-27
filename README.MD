@@ -13,3 +13,15 @@ cd build
 make VERBOSE=1
 
 ./overloading-by-forwarding
+
+## History
+
+dates: June 24, 2021
+
+duration: 4 hours
+
+### Core code from Another Developer
+
+These folks gave me my start.
+
+[cppreference.com::lambda](https://en.cppreference.com/w/cpp/language/lambda)
