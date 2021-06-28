@@ -24,4 +24,4 @@ duration: 4 hours
 
 These folks gave me my start.
 
-[cppreference.com::lambda](https://en.cppreference.com/w/cpp/language/lambda)
+[cppreference.com - lambda](https://en.cppreference.com/w/cpp/language/lambda)
