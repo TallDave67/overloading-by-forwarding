@@ -1,6 +1,6 @@
-# Overloading by Forwarding
+# Overloading by Forwarding (C++20)
 
-This project demonstrates forwarding in C++20.
+This project demonstrates forwarding using a templated lambda to achieve function overloading in C++20.
 
 Linux distro "Pop!_OS 20.10"
 
